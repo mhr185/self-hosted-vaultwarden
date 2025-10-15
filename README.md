@@ -30,7 +30,7 @@ apt update && apt install docker.io docker-compose -y
 systemctl enable docker --now
 ```
 
-### 3. Create docker-compose.yml:**
+### 3. Create docker-compose.yml:
 
  ```bash
 version: '3'
